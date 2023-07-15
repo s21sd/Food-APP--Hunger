@@ -71,6 +71,9 @@ The project utilizes the following dependencies:
 
 Please refer to the `package.json` file for the complete list of dependencies and their versions.
 
+<img src="https://github.com/s21sd/Tic-Tac-Toe-2-Player-Game/assets/98369603/0bda2163-bf55-40a6-80db-3ec6af42e7db" width="500" height="1000" alt="Image Description">
+<img src="https://github.com/s21sd/Tic-Tac-Toe-2-Player-Game/assets/98369603/0bda2163-bf55-40a6-80db-3ec6af42e7db" width="500" height="1000" alt="Image Description">
+
 ## Contributing
 
 Contributions are welcome! If you encounter any bugs, have suggestions, or want to contribute new features, please feel free to submit a pull request. Make sure to follow the existing code style and include relevant tests.
